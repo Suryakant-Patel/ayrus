@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Linkedin !!
+          Learn React with Linkedin Learning(local and cloud) !!
         </a>
       </header>
     </div>
